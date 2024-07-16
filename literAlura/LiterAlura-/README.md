@@ -14,7 +14,7 @@ Literatura Alura, un proyecto desafiante donde exploramos el mundo de los libros
 <em> # Overview </em>
 Bienvenido/a a Literatura Alura, un proyecto desafiante donde exploramos el mundo de los libros a través de una aplicación de consola desarrollada en Java con Spring Boot. Esta aplicación no solo te permite explorar y gestionar libros y autores, sino que también te sumerge en las estadísticas más impactantes de la literatura.
 
-![Menu de opciones](assets/menuOpciones.png)
+
 
 ##Características Principales
 Explore una gama completa de funcionalidades diseñadas para enriquecer su experiencia literaria:
@@ -63,13 +63,13 @@ Explore nuestra aplicación con facilidad y elegancia:
 
 1. **Búsqueda de Libros: Seleccione la opción 1 para buscar libros por título.
    
-   ![Busqueda de libro por título](assets/busqLibroTitulo.png)
+  
    
 2. **Listado de Libros y Autores: Opciones 2 y 3 para explorar listados completos.
    
-   ![Lista libros cargados](assets/busqLibros.png)
    
-   ![Lista autores cargados](assets/busqAutores.png)
+   
+   
    
 3. **Análisis Histórico y Lingüístico: Utilice las opciones 4 y 5 para explorar autores por año y libros por idioma, respectivamente.
    
@@ -86,11 +86,11 @@ Explore nuestra aplicación con facilidad y elegancia:
    
 4. **Acceso Global: Explore libros en múltiples idiomas para una experiencia literaria verdaderamente global.
 
-   ![Lista libros por idioma](assets/busqIdioma.png)
+   
    
 8. **Visualización de Datos: Descubra y compare los libros más populares con nuestras estadísticas detalladas.
 
-   ![Opciones de idioma](assets/busqIdiomaMenu.png)
+
 
    
 ## API y Recursos Adicionales
